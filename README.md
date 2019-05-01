@@ -10,4 +10,5 @@
 นำโครงงานไปพัฒนาเป็นระบบเปิด/ปิดไฟอัตโนมัติที่ใช้งานได้จริงในชีวิตประจำวันเพื่อเพิ่มความสะดวกสบายในการดำเนินชีวิต
 
 # Author
+|[![20190501-150909000-i-OS.png](https://i.postimg.cc/26RyFXG2/20190501-150909000-i-OS.png)](https://postimg.cc/QBmjjmRT)|[![46705500-1925562554178992-2045603162563280896-n.jpg](https://i.postimg.cc/L5f8qkLG/46705500-1925562554178992-2045603162563280896-n.jpg)](https://postimg.cc/H8YgRySt) | [![bloggif-5cc718be8717f.png](https://i.postimg.cc/0jg8q6Fn/bloggif-5cc718be8717f.png)](https://postimg.cc/Pp4GWqtv) |
 
